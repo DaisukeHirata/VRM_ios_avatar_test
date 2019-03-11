@@ -116,8 +116,4 @@ Donating to help me continue working on this project.
 VTuberKit is released under the MIT license. See LICENSE for details.
 
 # Author
-Tatsuya Tanaka
-
-<a href="https://twitter.com/tanakasan2525" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/tanakasan2525.svg?style=social&label=Follow"></a>
-<a href="https://github.com/tattn" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/tattn.svg?style=social"></a>
 
